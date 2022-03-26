@@ -1,0 +1,16 @@
+{
+  "name": "Andropy",
+  "description": "Break laws. Thermodynamic laws!",
+  "version": "1.0.1",
+  "app": {
+    "urls": [
+      "http://davidwatson.atspace.me/"
+	],
+    "launch": {
+      "web_url": "http://davidwatson.atspace.me/"
+    }
+  },
+  "icons": {
+	"128": "devil_icon_128.png"
+  }
+}
